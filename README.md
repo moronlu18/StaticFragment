@@ -33,7 +33,7 @@ Se muestra dos fragmentos: el fragmento A ocupa el 30% de la pantalla y el fragm
 ![Imagen de ejemplo](img/capture_vertical.png)
 
 En el caso que la orientación sea horizontal se reinicia la Activity y se muestran tres Fragment:
-``` java
+``` xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
